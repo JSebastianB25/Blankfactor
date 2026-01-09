@@ -2,10 +2,10 @@ Blankfactor QA Automation Framework
 
 Technologies Used
 
-- Cypress 15.8.2** - Core automation engine.
+- Cypress 15.8.2
 - Cucumber (Gherkin) scenario definition.
 - Cucumber HTML Reporter - For advanced visual reporting.
-- JavaScript - Programming language.
+- JavaScript 22.16.0 - Programming language.
 
 Installation
 npm install
