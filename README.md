@@ -12,3 +12,7 @@ npm install
 npm install cypress --save-dev
 npm install --save-dev @badeball/cypress-cucumber-preprocessor @bahmutov/cypress-esbuild-preprocessor
 npm install --save-dev cucumber-html-reporter
+
+Execution
+HTML Cucumber report
+- npm test
