@@ -1,0 +1,21 @@
+{
+  "name": "blankfactor-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report": "node utils/report.js",
+    "test": "npx cypress run --browser chrome & npm run report",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "jsebastian",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^24.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.8",
+    "cucumber-html-reporter": "^6.0.0",
+    "cypress": "^15.8.2"
+  }
+}
