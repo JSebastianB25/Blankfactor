@@ -17,6 +17,3 @@ Execution
 HTML Cucumber report
 <<<<<<< HEAD
 - npm test
-=======
-- npm test
->>>>>>> 31dc470be6c1b598cdd3e73ee068f7337338ac59
