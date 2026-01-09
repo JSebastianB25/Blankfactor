@@ -15,5 +15,4 @@ npm install --save-dev cucumber-html-reporter
 
 Execution
 HTML Cucumber report
-<<<<<<< HEAD
 - npm test
